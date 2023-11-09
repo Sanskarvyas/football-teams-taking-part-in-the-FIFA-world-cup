@@ -1,0 +1,2 @@
+# football-teams-taking-part-in-the-FIFA-world-cup  
+In this code we have imported the dataset which details the statistics of the football teams taking part in the FIFA world cup.  After importing this dataset, we have proceed to organize the data_Set on the basis of classifications: Group and Team. We proceed to declutter and clean the data by dropping statistics that are irrelavant to our narrative
